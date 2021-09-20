@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <userdetails>
+      <account>556436171909</account>
+      <address>328 Bergstrom Heights Suite 709 49592 Lake Allenville</address>
+      <checked>false</checked>
+      <credit_card>
+         <expirationDate>12/19</expirationDate>
+         <name>Brooks Hudson</name>
+         <number>4532388864703</number>
+         <type>Visa</type>
+      </credit_card>
+      <date_of_birth>1989-03-21T01:11:13+00:00</date_of_birth>
+      <description>Voluptatibus nihil dolor quaerat. Reprehenderit est molestias quia nihil consectetur voluptatum et.&lt;br&gt;Ea officiis ex ea suscipit dolorem. Ut ab vero fuga.&lt;br&gt;Quam ipsum nisi debitis repudiandae quibusdam. Sint quisquam vitae rerum nobis.</description>
+      <email>nerdman@cormier.net</email>
+      <interest null="true" />
+      <name>Prof. Simeon Green</name>
+   </userdetails>
+</root>
